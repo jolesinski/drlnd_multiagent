@@ -5,7 +5,7 @@ A description of solution implementation.
 
 ## Learning Algorithm
 
-After numerous trials MADDPG [[1]](https://arxiv.org/abs/1706.02275) algorithm policy was used to train the agent. All implementations are contained in [Tennis.ipynb](Tenis.ipynb).
+After numerous trials MADDPG [[1]](https://arxiv.org/abs/1706.02275) algorithm policy was used to train the agent. All implementations are contained in [Tennis.ipynb](Tennis.ipynb).
 
 ### Hyperparameters used (DDPG):
 
