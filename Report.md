@@ -1,11 +1,11 @@
-Report for Project 1: Navigation
+Report for Project 3: Collaboration and Competition
 =====================
 
 A description of solution implementation.
 
 ## Learning Algorithm
 
-After numerous trials MADDPG [[1]](https://arxiv.org/abs/1706.02275) algorithm policy was used to train the agent. All implementations are contained in [Tennis.ipynb](Tennis.ipynb).
+After numerous trials MADDPG [[1]](https://arxiv.org/abs/1706.02275) algorithm policy was used to train the agent. Ornstein Uhlenbeck process is used for exploration during learning. Learning is performed after several environment interactions and done with multiple gradient steps and draws from replay buffer. All implementations are contained in [Tennis.ipynb](Tennis.ipynb).
 
 ### Hyperparameters used (DDPG):
 
