@@ -45,6 +45,7 @@ conda activate drlnd
 jupyter notebook
 ```
 
-In jupyter open Continuous_Control.ipynb and select `drlnd` as active kernel.
+In jupyter open [Tennis.ipynb](Tennis.ipynb) and select `drlnd` as active kernel.
 Run cells up to "4. Train the agent" section if you want to perform training and save model parameters.
 Skip section "4. Train the agent" if you want to load pretrained model and evaluate the agent.
+:q!
